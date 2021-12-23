@@ -1,6 +1,6 @@
 # 안녕하세요. 개발자 이승수입니다.
 [![seungsu-lee-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungsu-lee-dev)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungsu-lee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungsu-lee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sloth19a)](https://solved.ac/sloth19a)
 
 <!--
