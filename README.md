@@ -3,8 +3,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungsu-lee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sloth19a)](https://solved.ac/sloth19a)
 
-<h3 align="center"> Tech Stack </h3>
-<p align="center">
+<h3> Tech Stack </h3>
+<p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
